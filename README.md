@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**kihong1602/kihong1602** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+아이디어가 실제 서비스가 되고, 사용자에게 닿는 순간을 좋아합니다.  
+현재 예비창업팀 **PRIENZ**에서 물품 대여 플랫폼 **Billit**을 개발하고 운영 중입니다.
 
-Here are some ideas to get you started:
+<a href="https://signstar.notion.site/3132e124e7fb80baaf3aea946e3a3cc2?pvs=74"><img src="https://img.shields.io/badge/Resume-000000?style=flat-square&logo=notion&logoColor=white"/></a>  <a href="mailto:signstar4517@gmail.com"><img src="https://img.shields.io/badge/signstar4517@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a> 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+
+## 🛠 Skills
+
+[![skillicons](https://skillicons.dev/icons?i=java,spring,gradle,mysql,redis,aws,docker,githubactions)](https://skillicons.dev)
+
+<br>
+
+## 📊 Stats
+
+![Awesome GitHub Stats](https://awesome-github-stats.azurewebsites.net/user-stats/kihong1602?cardType=github&theme=tokyonight&preferLogin=false&background=F0F4EF&text=344966&title=344966&icon=344966&ring=344966)
