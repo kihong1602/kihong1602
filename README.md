@@ -15,4 +15,4 @@
 
 ## 📊 Stats
 
-![Awesome GitHub Stats](https://awesome-github-stats.azurewebsites.net/user-stats/kihong1602?cardType=github&theme=tokyonight&preferLogin=false&background=F0F4EF&text=344966&title=344966&icon=344966&ring=344966)
+![Awesome GitHub Stats](https://awesome-github-stats.azurewebsites.net/user-stats/kihong1602?cardType=level&theme=tokyonight&preferLogin=false&background=F0F4EF&text=344966&title=344966&icon=344966&ring=344966)
